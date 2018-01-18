@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+	<WebBrowser name="Chrome"/>
+	<ImplicitWait hours="0" minutes="0" seconds="30" />
+	<PageLoad hours="0"  minutes="1" seconds="0"/>
+	<WebDriverWait hours="0"  minutes="0" seconds="30"/>
+</Config>
